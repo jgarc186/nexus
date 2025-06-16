@@ -1,8 +1,8 @@
 # Nexus
-- Package to help with reading from `.env` files and injecting environment variables into your application.
+- A utility package designed to read .env files and inject environment variables into your PHP application.
 
 ## Description
-- This package is a simple way to load environment variables from a `.env` file into your application. It is a simple package that is easy to use and does not require any configuration.
+- Nexus provides an easy and configuration-free method for loading environment variables from a .env file. It’s a lightweight and user-friendly solution to manage environment settings in your application.
 
 ## Features
 - Load environment variables from a `.env` file into your application.
